@@ -38,8 +38,5 @@ Press `END`.
 - dex and maddie for their address, hash, module, netvar, pattern, pe, and vmt classes
 - everyone who contributed to the project!
 
-## Known issues
-- Some of the code is unoptimized.
-
 ## License
 Licensed under the MIT License.   
